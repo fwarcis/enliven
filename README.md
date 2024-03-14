@@ -1,0 +1,3 @@
+- [OMPMPIGravit2019.pdf](https://edu.mmcs.sfedu.ru/pluginfile.php/64376/mod_resource/content/1/OMPMPIGravit2019.pdf)
+- [N-Body Problem | ���](http://www.hpcc.unn.ru/?dir=756)
+- [vershinin\_lyamin\_pleshkov\_vaycel\_-\_gravitacionnaya\_zadacha\_n\_tel.pdf](https://ssd.sscc.ru/sites/default/files/content/attach/546/vershinin_lyamin_pleshkov_vaycel_-_gravitacionnaya_zadacha_n_tel.pdf)
